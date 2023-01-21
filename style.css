@@ -58,6 +58,7 @@ background-color: black;
 }
 .large{
     margin-left: 9px;
+    background-color: blue;
 }
 .menu li {
     display:inline;
